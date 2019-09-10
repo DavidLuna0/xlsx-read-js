@@ -1,0 +1,15 @@
+{
+  "name": "xlsx-exemplo",
+  "version": "1.0.0",
+  "description": "Teste xlsxjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^1.7.0",
+    "xlsx": "^0.15.1"
+  }
+}
