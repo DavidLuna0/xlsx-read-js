@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "mysql2": "^1.7.0",
-    "xlsx": "^0.15.1"
+    "xlsx": "^0.17.0"
   }
 }
